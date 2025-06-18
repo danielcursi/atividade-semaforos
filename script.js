@@ -1,3 +1,6 @@
+let nome = prompt("Informe seu nome: ");
+alert(`Sejá bem vindo ${nome}!`);
+
 let tempoRestante = 9;
 let fase = 0;
 let pedidoPedestre = false;
